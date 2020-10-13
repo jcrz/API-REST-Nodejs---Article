@@ -1,4 +1,4 @@
-# NoseJS API-RESTful
+# NodeJS API-RESTful
 
 ## Realizada con fines de prueba para un Blog.
 
